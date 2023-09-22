@@ -1,0 +1,9 @@
+/* Settings.css */
+
+/* Responsive styles for screens smaller than 768px (adjust as needed) */
+@media screen and (max-width: 768px) {
+    .settings {
+      font-size: 14px; /* Decrease font size for smaller screens */
+    }
+  }
+  

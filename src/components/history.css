@@ -1,0 +1,7 @@
+
+@media screen and (max-width: 768px) {
+    .chat-history {
+      max-height: 200px; 
+    }
+  }
+  

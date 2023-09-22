@@ -1,0 +1,11 @@
+
+@media screen and (max-width: 768px) {
+    .feedback {
+      font-size: 14px; 
+    }
+  
+    .feedback textarea {
+      width: 100%; 
+    }
+  }
+  
